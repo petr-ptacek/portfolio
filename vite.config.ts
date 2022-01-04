@@ -9,11 +9,7 @@ export default defineConfig({
   resolve: {
     alias: {
       // @ts-ignore
-      '@': path.resolve(__dirname, './src'),
-      // @ts-ignore
-      '@assets': path.resolve(__dirname, './src/assets'),
-      // @ts-ignore
-      '@components': path.resolve(__dirname, './src/components')
+      '@': path.resolve(__dirname, './src')
     }
   }
 });
