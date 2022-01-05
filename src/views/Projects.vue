@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <article>
     <h1>Projects</h1>
-  </section>
+  </article>
 </template>
