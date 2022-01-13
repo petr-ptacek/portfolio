@@ -1,0 +1,3 @@
+<template>
+  AppLayout.vue
+</template>

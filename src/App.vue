@@ -1,14 +1,8 @@
 <template>
-  <AppHeader />
-  <AppContent />
-  <AppFooter />
+  App
 </template>
 
 
 <script setup lang="ts">
-import {
-  AppHeader,
-  AppFooter,
-  AppContent
-} from '@/components';
+
 </script>
